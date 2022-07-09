@@ -1,7 +1,7 @@
 
 
-### # 💫 Sobre mim:
-Olá! Eu sou Juliana Gavazzi Ventura!<br>Estudante de Engenharia da Computação e aspirante a Dev Full stack!
+###  💫 Sobre mim:
+Me chamo Juliana!<br>Sou estudante de Engenharia da Computação e aspirante a Dev Full stack!
 
 
 ## 🌐 Socials:
