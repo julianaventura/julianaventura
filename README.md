@@ -1,3 +1,5 @@
+
+
 ### # 💫 Sobre mim:
 Olá! Eu sou Juliana Gavazzi Ventura!<br>Estudante de Engenharia da Computação e aspirante a Dev Full stack!
 
@@ -15,7 +17,13 @@ Olá! Eu sou Juliana Gavazzi Ventura!<br>Estudante de Engenharia da Computação
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Snake animation](https://github.com/julianaventura/julianaventura/blob/output/github-contribution-grid-snake.svg)
+
+<div  align="center"> 
+  
+  
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=julianaventura&icon=0&color=0)](https://visitcount.itsvg.in)
